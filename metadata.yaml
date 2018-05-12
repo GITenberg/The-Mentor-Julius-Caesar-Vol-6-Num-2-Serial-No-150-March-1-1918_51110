@@ -1,10 +1,16 @@
 _repo: The-Mentor-Julius-Caesar-Vol-6-Num-2-Serial-No-150-March-1-1918_51110
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51110-h/images/cover.jpg
 creator:
   author:
     agent_name: Botsford, George Willis
     gutenberg_agent_id: '45612'
     url: http://www.gutenberg.org/2009/agents/45612
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51110#The-Mentor-Julius-Caesar-Vol-6-Num-2-Serial-No-150-March-1-1918
 gutenberg_issued: '2016-02-02'
 gutenberg_type: Text
 identifiers:
