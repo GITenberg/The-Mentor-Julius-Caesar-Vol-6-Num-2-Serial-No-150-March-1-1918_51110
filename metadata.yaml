@@ -19,5 +19,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Mentor: Julius Caesar, Vol. 6, Num. 2, Serial No. 150, March 1, 1918'
 url: http://www.gutenberg.org/ebooks/51110
